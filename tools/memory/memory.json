@@ -1,0 +1,16 @@
+{
+  "name": "b5812a1d-e58b-417d-a0a8-fafdd53e22f8",
+  "displayName": "memory",
+  "description": "Plugin for storing/retriving any facts about the user, anything that you think is importnat to remember about user or the conversation",
+  "openApiSpec": {
+    "authentication": {
+      "oauthConfig": {
+        "oauthGrantType": "CLIENT_CREDENTIAL",
+        "clientId": "jess_memory_backend",
+        "clientSecret": "q32984y5hteodhfgd8s",
+        "tokenEndpoint": "https://api.myjess.ai/oauth"
+      }
+    }
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}

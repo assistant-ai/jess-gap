@@ -1,0 +1,12 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 1056445068092,
+  "enableStackdriverLogging": true,
+  "advancedSettings": {
+    "loggingSettings": {
+      "enableStackdriverLogging": true
+    }
+  },
+  "startPlaybook": "Jess"
+}
